@@ -13,6 +13,7 @@ Cần phải có 3 file, để trong thư mục data:
     - Trên Linux: `source venv\bin\activate`
 - B3: Cài các thư viện cần thiết bằng `pip install -r requirements.txt`
 - B4: Set các biến môi trường.
+    - set biến DATABASE_URL = postgresql://postgres:iArwz1WZWSgysU0ibWhk@containers-us-west-62.railway.app:7479/railway
 - B5: Import dữ liệu bằng cách chạy file `python import_data.py`, phải đảm bảo có đủ 3 file dữ liệu trong thư mục `data`.
 - B6: chạy bằng `flask run`.
 
