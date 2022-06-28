@@ -1,0 +1,13 @@
+- tạo database đưa product và user lên trên
+- viết api:
++ tạo thêm product
++ tạo thêm user
++ tạo đơn hàng
++ danh sách sản phẩm gợi ý cho user
+- thuật toán recommender, có thể sử dụng neighborhood-based CF
+
+# Thuật toán recommendation 
+https://machinelearningcoban.com/2017/05/24/collaborativefiltering/
+
+- Địn nghĩa?
+- Sử dụng thuật toán này như nào?
